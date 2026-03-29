@@ -167,4 +167,4 @@ QUEX Institute (2026). Explainable AI for Sustainable Sewers under Climate and U
 MSc Advanced Computer Science, University of Liverpool
 [LinkedIn](https://linkedin.com/in/kunal-kamble19) | [Email](mailto:kamblekunal165@gmail.com)
 
-*Built in preparation for the QUEX Institute joint PhD programme between the University of Exeter and the University of Queensland, supervised by Dr. Jawad Fayaz.*
+*Built in preparation for the QUEX Institute joint PhD programme between the University of Exeter and the University of Queensland*
